@@ -22,7 +22,7 @@
 ## ℹ️ Como usar
 ```bash
 # Clone esse repositório
-$ git clone https://github.com/rafaasimi/Animais-Fantasticos-Origamid.git
+$ git clone https://github.com/Clara-Pacheco/JavaScript-Completo-ES6-ORIGAMID.git
 
 # Instalar dependências
 index.html
