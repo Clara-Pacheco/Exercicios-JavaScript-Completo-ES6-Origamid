@@ -1,3 +1,48 @@
+<p align="center"><img src="https://github.com/Clara-Pacheco/JavaScript-Completo-ES6-ORIGAMID/blob/main/lobo.png"></p> 
+<h1 align="center">Animais Fantásticos<br><img src="https://img.shields.io/github/repo-size/Clara-Pacheco/JavaScript-Completo-ES6-ORIGAMID"> <img src="https://img.shields.io/github/last-commit/Clara-Pacheco/JavaScript-Completo-ES6-ORIGAMID"> <img src="https://img.shields.io/github/license/Clara-Pacheco/JavaScript-Completo-ES6-ORIGAMID">
+</h1>
+
+## 🔖 Descrição  
+
+🐺 Criação do site Animais Fantásticos para colocar em prática os conhecimentos aprendidos no curso de JavaScript ES6 da Origamid.(+ exercícios propostos no decorrer do curso).
+
+
+📦 Curso e materiais disponíveis em: [Origamid - JavaScript ES6](https://www.origamid.com/curso/javascript-completo-es6)
+
+---
+
+## 🚀 Tecnologias
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## ℹ️ Como usar
+```bash
+# Clone esse repositório
+$ git clone https://github.com/rafaasimi/Animais-Fantasticos-Origamid.git
+
+# Instalar dependências
+index.html
+$ npm install
+
+# Abra o arquivo
+index.html
+```
+---
+
+## 🖼 Layout
+![Layout Animais Fantasticos](https://github.com/Clara-Pacheco/JavaScript-Completo-ES6-ORIGAMID/blob/main/layout.png)
+
+## 📝 Licença
+O projeto se encontra sob licença MIT. Para mais detalhes, acesse [license](LICENSE).
+
+---
+Criado com 💙 por [Clara Pacheco](https://github.com/Clara-Pacheco)
+
+
 <h1 align="center">
     <img alt="Origamid" src="https://github.com/Clara-Pacheco/Exercicios-JavaScript-Completo-ES6-Origamid/blob/main/banner.png" width="700px" />
 </h1>
@@ -23,11 +68,3 @@ Projects and Certificates.🏆</p>
 <p>:white_large_square: Wordpress REST API</p>
 <p>:white_large_square: Vue.js Completo</p>
 <p>:white_check_mark: CSS com SASS</p>
-
-<h2>Repositório com a solução para os exercícios propostos no curso de JavaScript Completo ES6 + projetos desenvolvidos no decorrer do curso.</h2>
-
-O foco é no aprendizado da linguagem, mas o principal local de aplicação será na web, através de manipulações do DOM e requisições via Fetch API.
-
-![preview-course´s description](https://github.com/Clara-Pacheco/Exercicios-JavaScript-Completo-ES6-Origamid/blob/main/JavaScript%20Completo%20ES6%2B.png)
-
-![preview-course's project](https://github.com/Clara-Pacheco/Exercicios-JavaScript-Completo-ES6-Origamid/blob/main/JavaScript%20Completo%20ES6.png)
