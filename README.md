@@ -1,4 +1,4 @@
-# JavaScript Completo ES6- Solução para os exercícios do módulo 02
+# JavaScript Completo ES6- Solução para os exercícios propostos no decorrer do curso + projetos
 
 ## JS para Iniciantes
 
