@@ -36,8 +36,8 @@ index.html
 ## 🖼 Layout
 ![Layout Animais Fantasticos](https://github.com/Clara-Pacheco/JavaScript-Completo-ES6-ORIGAMID/blob/main/layout.png)
 
-## 📝 Licença
-O projeto se encontra sob licença MIT. Para mais detalhes, acesse [license](LICENSE).
+<!-- ## 📝 Licença
+O projeto se encontra sob licença MIT. Para mais detalhes, acesse [license](LICENSE). -->
 
 ---
 Criado com 💙 por [Clara Pacheco](https://github.com/Clara-Pacheco)
